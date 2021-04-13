@@ -1,0 +1,33 @@
+/* * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * erbaum:
+ *   - http://typekit.com/eulas/00000000000000007735b011
+ *   - http://typekit.com/eulas/00000000000000007735b014
+ * purista-web:
+ *   - http://typekit.com/eulas/0000000000000000773598e5
+ *   - http://typekit.com/eulas/0000000000000000773598f2
+ * tachyon:
+ *   - http://typekit.com/eulas/000000000000000077359706
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved. */
+
+/* {"last_published":"2021-04-02 23:22:40 UTC"} */
+
+.tk-tachyon {
+  font-family: "tachyon",sans-serif;
+}
+
+.tk-purista-web {
+  font-family: "purista-web",sans-serif;
+}
+
+.tk-erbaum {
+  font-family: "erbaum",sans-serif;
+}
+
+@import {
+}
+
