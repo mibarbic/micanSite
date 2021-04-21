@@ -3,31 +3,33 @@
  * http://www.adobe.com/products/eulas/tou_typekit. For font license
  * information, see the list below.
  *
- * erbaum:
- *   - http://typekit.com/eulas/00000000000000007735b011
- *   - http://typekit.com/eulas/00000000000000007735b014
  * purista-web:
  *   - http://typekit.com/eulas/0000000000000000773598e5
  *   - http://typekit.com/eulas/0000000000000000773598f2
- * tachyon:
- *   - http://typekit.com/eulas/000000000000000077359706
+ * rigid-square:
+ *   - http://typekit.com/eulas/00000000000000007735c424
+ *   - http://typekit.com/eulas/00000000000000007735c428
+ *   - http://typekit.com/eulas/00000000000000007735c433
+ *   - http://typekit.com/eulas/00000000000000007735c436
+ * sui-generis:
+ *   - http://typekit.com/eulas/000000000000000077359629
+ *   - http://typekit.com/eulas/00000000000000007735962a
+ *   - http://typekit.com/eulas/00000000000000007735962b
+ *   - http://typekit.com/eulas/00000000000000007735962c
  *
  * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved. */
 
-/* {"last_published":"2021-04-02 23:22:40 UTC"} */
+/* {"last_published":"2021-04-21 03:36:17 UTC"} */
 
-.tk-tachyon {
-  font-family: "tachyon",sans-serif;
+.tk-sui-generis {
+  font-family: "sui-generis",sans-serif;
 }
 
 .tk-purista-web {
   font-family: "purista-web",sans-serif;
 }
 
-.tk-erbaum {
-  font-family: "erbaum",sans-serif;
-}
-
-@import {
+.tk-rigid-square {
+  font-family: "rigid-square",sans-serif;
 }
 
