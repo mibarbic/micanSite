@@ -270,3 +270,7 @@ h3 {
   animation: banimateBar 1s alternate infinite;
 }
 
+.name {
+  height: 38.4px;
+}
+
