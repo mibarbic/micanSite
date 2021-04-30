@@ -1,0 +1,28 @@
+.swiper-container {
+    width: 100%;
+    height: 100vh;
+}
+.swiper-slide {
+    background: #ffa4a4;
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    z-index: 7;
+}
+
+.containerA {
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+.child {
+    scroll-snap-align: start;
+}
+
+/*# sourceMappingURL=/micanOS.ab7a092c.css.map */
